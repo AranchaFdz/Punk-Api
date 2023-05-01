@@ -11,23 +11,7 @@
 ### Información General
 Matrix Campus me solicita una prueba técnica con los siguientes requisitos:
 
-Ejercicio usando ​Punk API
-Propósito
-Realizar un pequeño buscador de recetas usando el API Punk:
-https://punkapi.com/documentation/v2
-Requerimientos
-El usuario debe ser capaz de insertar un nombre de comida (parameter ‘food’) en un buscador y obtener el resultado de la búsqueda en una lista.
-Cada vez que el usuario introduzca o borre un carácter de la búsqueda, la lista debe ser actualizada.
-El ejercicio se debe de ver bien tanto en pantallas móviles como en pantallas de ordenador.
-Criterios de revisión
-Calidad de código.
-Simplicidad y escalabilidad de la solución. Diseño responsive.
-Otros
-Te recomendamos que reserves dos horas para realizar la prueba.
-Nos gustaría que la prueba la realizaras en Angular pero puedes usar librerías, patrones de diseño o cualquier cosa que decidas. Siéntete cómodo usando las herramientas con las que estás acostumbrado a trabajar.
-Envíanos el resultado de la prueba a través de tu repositorio personal (Github, Gitlab, Bitbucket...).
-
-
+<img width="450" alt="Captura de pantalla 2023-05-01 a las 23 47 45" src="https://user-images.githubusercontent.com/110049521/235537447-3f80e600-8f99-4dd6-93f8-d7d98492b99e.png">
 
 ### Tecnologías
 - Visual Studio Code
